@@ -4,3 +4,9 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+
+.product-card .logo-cart img{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+}
