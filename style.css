@@ -5,8 +5,19 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
+.product-card .logo-cart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .product-card .logo-cart img{
     height: 60px;
     width: 60px;
     object-fit: cover;
+}
+
+.product-card .logo-cart i{
+    font-size: 27px;
 }
