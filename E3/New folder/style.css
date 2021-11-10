@@ -14,3 +14,8 @@ header [class]{
 .visit a:link {/* سایت هایی که دیده نشده  */
     color:rgb(71, 107, 78)
 }
+
+input:focus {/* وفتی روش کلیک بکنم  */
+    background-color: springgreen;
+}
+
