@@ -19,3 +19,6 @@ input:focus {/* وفتی روش کلیک بکنم  */
     background-color: springgreen;
 }
 
+span:active {/* زمانی که روی متن سلکت میکنیم رنگش عوض میشه  */
+    color: blueviolet;
+}
