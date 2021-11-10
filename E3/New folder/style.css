@@ -1,3 +1,7 @@
 [class]{/* تمام اون هایی که کلس دارند */
     font-size: 10px;
 }
+
+header [class]{
+    color: red;
+}
