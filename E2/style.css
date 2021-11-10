@@ -2,6 +2,23 @@
     background-color: #ccc;
     font-family: fantasy;
 }
+
 h1{
     color: darkviolet;
+}
+
+.tage1{
+    color: orange;
+}
+
+.tage2{
+    color: blue;
+}
+
+.tage3{
+    color: rgb(199, 199, 13);
+}
+
+#tage2{
+    color: rgb(26, 72, 207);
 }
