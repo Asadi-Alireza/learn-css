@@ -1,5 +1,14 @@
 .continre{
     background-color: red;
     width: 50%;
-    height: 200px;
+    height: 20px;/* height # 20% */
+}
+
+.mather{
+    color: brown;
+    font-size: 2em;
+}
+
+.child{
+    color: inherit;/* یعنی برو رنگ والدت شو */
 }
