@@ -6,9 +6,10 @@
 
 .mather{
     color: brown;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 .child{
     color: inherit;/* یعنی برو رنگ والدت شو */
+    font-size: inherit;/* یعنی برو از سایز فونت مادر استفاده کن  */
 }
