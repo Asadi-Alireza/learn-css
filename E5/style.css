@@ -1,7 +1,19 @@
-/* 10px = 1em → 25em = 250px */
+/* 16px = 1em → 25em = 400px */
 
 .div {
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
     background-color: red;
+}
+
+.div2 {
+    width: 100%;/* 100% = رزولیسن ماینتور */
+    height: 50px;
+    background-color: yellow;
+}
+
+.div3{
+    width: 5em;
+    height: 5em;
+    background-color: orange;
 }
