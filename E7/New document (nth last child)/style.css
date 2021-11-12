@@ -1,0 +1,5 @@
+p:nth-last-child(1){/* از اخر دومین فرزند را انتخاب میکند */
+    background-color: red;
+    font-size: 30px;
+
+}
