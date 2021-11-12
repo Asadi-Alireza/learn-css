@@ -1,0 +1,4 @@
+p:only-child{/* فقط تک فرزند ها در نظر میگیرد */
+    color: blue;
+    font-size: 20px;
+}
