@@ -36,5 +36,9 @@
 }
 
 .p8{
-    letter-spacing: 10px;
+    letter-spacing: 10px;/* فاصله بین کارکتر ها */
+}
+
+.p9{
+    word-spacing: 10px;/* فاصله بین هر کلمه زیاد میشه  */
 }
