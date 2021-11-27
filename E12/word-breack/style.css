@@ -14,3 +14,7 @@ p{
 .c{
     word-break: keep-all;
 }
+
+.d{
+    line-height: 5;/* فاصله بین خطوط */
+}
