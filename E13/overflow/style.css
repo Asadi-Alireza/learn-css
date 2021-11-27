@@ -13,3 +13,7 @@ div{
 .b{
     overflow: scroll;
 }
+
+.c{
+    overflow: hidden;
+}
