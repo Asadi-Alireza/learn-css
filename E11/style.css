@@ -28,3 +28,9 @@
     direction: rtl;
     text-indent: 25px;/* خط اول پاگراف را 25 پیکسل به جلو میاره */
 }
+
+.p7{
+    direction: ltr;
+    text-align: center;
+    text-transform: capitalize;/* تمام حروف های اول از هر کلمه بزرگ میشود  */
+}
