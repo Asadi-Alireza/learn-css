@@ -9,5 +9,7 @@
 }
 
 .c{
+    direction: rtl;
     color: green;
+    white-space: pre;/* دقیقا همون جوری که متن داخل ایدتور نوشته شده نمایش داده میشود  */
 }
