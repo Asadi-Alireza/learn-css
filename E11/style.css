@@ -34,3 +34,7 @@
     text-align: center;
     text-transform: capitalize;/* تمام حروف های اول از هر کلمه بزرگ میشود  */
 }
+
+.p8{
+    letter-spacing: 10px;
+}
