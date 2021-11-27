@@ -17,3 +17,7 @@ div{
 .c{
     overflow: hidden;
 }
+
+d.{
+    overflow: visible;/* none */
+}
