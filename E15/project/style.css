@@ -2,3 +2,7 @@ li{
     list-style-type: none;
     list-style-image: url(img/317756_badge_css_css3_achievement_award_icon.png);
 }
+
+.li1{
+    list-style-image: none;
+}
