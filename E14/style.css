@@ -1,4 +1,10 @@
-p{
+.a1{
     font-size: 50px;
     font-weight:700 ;/* normal=400 , bold=700 */
+    font-style: initial;/* واقعا ایتالیک میکند  */
+}
+
+.a2{
+    font-weight: 400;
+    font-style: oblique;/* برای زمانی که ایتالیک براش تعریف نشده باشد خود مرورگر کج میکند  */
 }
