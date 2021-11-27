@@ -8,3 +8,7 @@
     font-weight: 400;
     font-style: oblique;/* برای زمانی که ایتالیک براش تعریف نشده باشد خود مرورگر کج میکند  */
 }
+
+.a3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
