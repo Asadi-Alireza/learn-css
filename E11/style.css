@@ -1,3 +1,7 @@
+*{
+    font-family: b nazanin;
+}
+
 .p1{
     direction: rtl;
 }
@@ -18,4 +22,9 @@
 .p5{
     direction: rtl;
     text-decoration: underline ;
+}
+
+.p6{
+    direction: rtl;
+    text-indent: 25px;/* خط اول پاگراف را 25 پیکسل به جلو میاره */
 }
