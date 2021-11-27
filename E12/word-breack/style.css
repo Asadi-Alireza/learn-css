@@ -1,0 +1,16 @@
+p{
+    width: 300px;
+    border: 1px solid black;
+}
+
+.a{
+    word-break: normal;
+}
+
+.b{
+    word-break: break-all;
+}
+
+.c{
+    word-break: keep-all;
+}
