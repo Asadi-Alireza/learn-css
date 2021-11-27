@@ -1,0 +1,18 @@
+div{
+    border: 1px solid #000;
+    background-color: aquamarine;
+    font-family: cursive;
+    width: 70px;
+    height: 90px;
+}
+
+
+.a{
+    overflow: hidden;
+    text-overflow: clip;
+}
+
+.b{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
