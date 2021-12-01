@@ -18,16 +18,33 @@ li a{
     position: relative;
     display: block;
     transition: all ease 0.5s;/* مدت اعمال هاور */
+    border-radius: 50px;
 }
 
 a:hover{
     background-color: rgb(4, 158, 4);
-    border-radius: 50px;
+    
 }
 
 ul li ul{
     display: none;
     position: absolute;
-    width: 80px;
+    width: 90px;
     margin: 20px 0xp 0px -5px;
 }
+
+ul li ul li a{
+    font-size: 12px;
+}
+
+ul li :hover ul {
+    display: block;
+    margin: 0px 0px 0px -5px;
+    transition: all ease 0.5s;
+
+}
+
+ul li ul li a{
+    background-color: aquamarine;
+}
+
